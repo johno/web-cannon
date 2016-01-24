@@ -21,7 +21,7 @@ _Work in progress_
 
 ##### Functional CSS Tools
 
-- <http://immutablecss.com>>
+- <http://immutablecss.com>
 
 ## Ruby
 
