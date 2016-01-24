@@ -2,8 +2,21 @@
 
 _Work in progress_
 
+- [CSS](#css)
+  - [Functional CSS](#functional-css)
 - [Ruby](#ruby)
   - [Security](#ruby-security)
+
+## CSS
+
+### Functional CSS
+
+- <http://csswizardry.com/2015/03/immutable-css/>
+- <http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/>
+- <http://immutablecss.com>
+- <http://www.jon.gold/2015/07/functional-css/>
+- <http://eng.wealthfront.com/2013/08/functional-css-fcss.html>
+- <https://blog.colepeters.com/building-and-shipping-functional-css/>
 
 ## Ruby
 
