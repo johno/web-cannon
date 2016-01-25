@@ -8,6 +8,7 @@ _Work in progress_
     - [Tools](#functional-css-tools)
 - [JavaScript](#javascript)
   - [ES2015](#es2015)
+  - [Immutable](#immutable-javascript)
   - [Advanced](#advanced-javascript)
   - [Async](#async-javascript)
 - [Ruby](#ruby)
@@ -41,6 +42,11 @@ _Work in progress_
 ### ES2015
 
 - [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=HxHBAU0cTHU) by Ashley Williams
+
+### Immutable JavaScript
+
+- [Lenses with Immutable JS](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.8t4xb62w5) by Brian Lonsdorf
+- [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) by Lee Byron
 
 ### Advanced JavaScript
 
