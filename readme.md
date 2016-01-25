@@ -77,4 +77,4 @@ MIT
 
 ***
 
-Crafted with <3 by [@4lpine](https://twitter.com/4lpine).
+> Crafted with <3 by [@4lpine](https://twitter.com/4lpine)
