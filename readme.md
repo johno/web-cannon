@@ -3,12 +3,22 @@
 _Work in progress_
 
 - [CSS](#css)
+  - [CSS Talks](#css-talks)
   - [Functional CSS](#functional-css)
     - [Tools](#functional-css-tools)
+- [JavaScript](#javascript)
+  - [ES2015](#es2015)
 - [Ruby](#ruby)
   - [Security](#ruby-security)
 
 ## CSS
+
+### CSS talks
+
+- [Implementing a Visual CSS Testing Framework](https://www.youtube.com/watch?v=ItyUjVWl4q8) by Jessica Dillon
+- [PostCSS: The Future After Sass and Less](https://www.youtube.com/watch?v=6jz6p7wqOpI) by Andrey Sitnik
+- [CSS First](https://www.youtube.com/watch?v=ALEGHlwMXxs) by Michelle Bu
+- [Things I've Learned About CSS](https://www.youtube.com/watch?v=14N_V56tqd4) by Adam Morse
 
 ### Functional CSS
 
@@ -22,6 +32,12 @@ _Work in progress_
 ##### Functional CSS Tools
 
 - <http://immutablecss.com>
+
+## JavaScript
+
+### ES2015
+
+- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=HxHBAU0cTHU) by Ashley Williams
 
 ## Ruby
 
