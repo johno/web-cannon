@@ -23,6 +23,7 @@ _Work in progress_
 - [CSS First](https://www.youtube.com/watch?v=ALEGHlwMXxs) by Michelle Bu
 - [Things I've Learned About CSS](https://www.youtube.com/watch?v=14N_V56tqd4) by Adam Morse
 - [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) by Addy Osmani
+- [Move Slow and Fix Things](http://www.thedotpost.com/2015/12/daniel-eden-move-slow-and-fix-things) by Daniel Eden
 
 ### Functional CSS
 
