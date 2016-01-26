@@ -9,6 +9,7 @@ _Work in progress_
 - [JavaScript](#javascript)
   - [ES2015](#es2015)
   - [Immutable](#immutable-javascript)
+  - [Intermediate](#intermediate-javascript)
   - [Advanced](#advanced-javascript)
   - [Async](#async-javascript)
 - [Ruby](#ruby)
@@ -49,6 +50,10 @@ _Work in progress_
 - [Lenses with Immutable JS](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.8t4xb62w5) by Brian Lonsdorf
 - [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) by Lee Byron
 - [Immutability, Interactivity & JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk) by David Nolen
+
+### Intermediate JavaScript
+
+- [Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/) by Todd Motto
 
 ### Advanced JavaScript
 
