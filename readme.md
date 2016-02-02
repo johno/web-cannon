@@ -54,6 +54,7 @@ _Work in progress_
 ### Intermediate JavaScript
 
 - [Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/) by Todd Motto
+- [Callback Hell](http://callbackhell.com/) by Max Ogden
 
 ### Advanced JavaScript
 
