@@ -14,6 +14,7 @@ _Work in progress_
   - [Async](#async-javascript)
 - [Ruby](#ruby)
   - [Security](#ruby-security)
+  - [Debugging](#ruby-debugging)V
 
 ## CSS
 
@@ -69,6 +70,10 @@ _Work in progress_
 ### Ruby Security
 
 - [See Hacker Hack](http://confreaks.tv/videos/keeprubyweird2015-see-hacker-hack): A talk about web security and the tooling to test applications. 
+
+### Ruby Debugging
+
+- [I am a Puts Debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 
 ## License
 
