@@ -13,8 +13,9 @@ _Work in progress_
   - [Advanced](#advanced-javascript)
   - [Async](#async-javascript)
 - [Ruby](#ruby)
+  - [Internals](#ruby-internals)
   - [Security](#ruby-security)
-  - [Debugging](#ruby-debugging)V
+  - [Debugging](#ruby-debugging)
 
 ## CSS
 
@@ -66,6 +67,10 @@ _Work in progress_
 - [Asynchronous JavaScript at Netflix](https://www.youtube.com/watch?v=a8W5VVGO-jA) by Matthew Podwysowski
 
 ## Ruby
+
+### Ruby Internals
+
+- [How are Method Calls Formed?](https://www.youtube.com/watch?v=b77V0rkr5rk): A talk by Aaron Patterson
 
 ### Ruby Security
 
