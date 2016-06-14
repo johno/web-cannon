@@ -16,6 +16,7 @@ _Work in progress_
   - [Internals](#ruby-internals)
   - [Security](#ruby-security)
   - [Debugging](#ruby-debugging)
+- [AI](#ai)
 
 ## CSS
 
@@ -79,6 +80,11 @@ _Work in progress_
 ### Ruby Debugging
 
 - [I am a Puts Debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
+
+## AI
+
+- <http://ai.berkeley.edu/lecture_videos.html>
+- <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/>
 
 ## License
 
