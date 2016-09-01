@@ -3,8 +3,8 @@
 _Work in progress_
 
 - [CSS](#css)
-  - [Talks](#css-talks]
-  - [Tools](#css-tools]
+  - [Talks](#css-talks)
+  - [Tools](#css-tools)
   - [Functional CSS](#functional-css)
     - [Tools](#functional-css-tools)
 - [UI](#ui)
