@@ -3,7 +3,8 @@
 _Work in progress_
 
 - [CSS](#css)
-  - [Talks](#css-talks)
+  - [Talks](#css-talks]
+  - [Tools](#css-tools]
   - [Functional CSS](#functional-css)
     - [Tools](#functional-css-tools)
 - [UI](#ui)
@@ -13,6 +14,7 @@ _Work in progress_
   - [Intermediate](#intermediate-javascript)
   - [Advanced](#advanced-javascript)
   - [Async](#async-javascript)
+- [CSS + JS](#css-js)
 - [Ruby](#ruby)
   - [Internals](#ruby-internals)
   - [Security](#ruby-security)
@@ -42,6 +44,12 @@ _Work in progress_
 ##### Functional CSS Tools
 
 - <http://immutablecss.com>
+- <http://cssstats.com>
+
+##### Frameworks
+
+- <http://basscss.com>
+- <http://tachyons.io>
 
 ## UI
 
@@ -72,6 +80,16 @@ _Work in progress_
 ### Async JavaScript
 
 - [Asynchronous JavaScript at Netflix](https://www.youtube.com/watch?v=a8W5VVGO-jA) by Matthew Podwysowski
+
+### React
+
+- <http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/>
+
+## CSS + JS
+
+- <https://github.com/jxnblk/cxs>
+- <https://github.com/Khan/aphrodite>
+- <https://github.com/cssinjs/jss>
 
 ## Ruby
 
