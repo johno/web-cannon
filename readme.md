@@ -109,6 +109,9 @@ _Work in progress_
 
 - <http://ai.berkeley.edu/lecture_videos.html>
 - <http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/>
+- <http://karpathy.github.io/2015/05/21/rnn-effectiveness/>
+- <https://github.com/jcjohnson/torch-rnn>
+- <http://www.redblobgames.com/x/1645-phoneme-namegen/>
 
 ## License
 
