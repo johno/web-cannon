@@ -20,6 +20,7 @@ _Work in progress_
   - [Security](#ruby-security)
   - [Debugging](#ruby-debugging)
 - [AI](#ai)
+- [Security](#security)
 
 ## CSS
 
@@ -112,6 +113,11 @@ _Work in progress_
 - <http://karpathy.github.io/2015/05/21/rnn-effectiveness/>
 - <https://github.com/jcjohnson/torch-rnn>
 - <http://www.redblobgames.com/x/1645-phoneme-namegen/>
+
+## Security
+
+- <http://blog.mailgun.com/security-guide-basic-infrastructure-security/>
+- <http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/>
 
 ## License
 
